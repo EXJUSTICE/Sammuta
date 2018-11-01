@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/EXJUSTICE/Sammuta/sammuta (1).jpg)
+![alt text](https://raw.githubusercontent.com/EXJUSTICE/Sammuta/sammuta.jpg)
 
 
 Sammuta is an Android-mounted wildfie recognition system trained on an ImageNet neural network across 250 image per class.
