@@ -5,7 +5,7 @@ Sammuta is an Android-mounted wildfire recognition system trained on an ImageNet
 It is built upon Google's Tensorflow Lite demo, and is completely open-source.
 This demo iteration is capable of distinguishing between forests, wildfires, and sandwiches. 
 
-You will find the android demo itself at 
+As this is forked from the original TF repository, there are several unrelated directories as of present. You will find the android demo itself at 
 Sammuta\tensorflow\contrib\lite\java\demo\app\src\main\java\com\example\android
 
 The final version of Sammuta will integrate with sensor networks and LANDSAT data to provide a multichannel early detection system.
