@@ -12,6 +12,6 @@ Winner of the NASA SpaceApps Challenge 2018 (SG).
 As this is forked from the original TF repository, You will find the android demo itself at 
 Sammuta\tensorflow\contrib\lite\java\demo\app\src\main\java\com\example\android
 
-You will also find the training dataset and alternative tflite modifications in their respective .rar directories.
+You will also find the training dataset in its own .rar directory.
 
 The final version of Sammuta will integrate with sensor networks and LANDSAT data to provide a multichannel early detection system.
